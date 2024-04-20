@@ -23,5 +23,4 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
    ![jpa](https://img.shields.io/badge/JPA-236DB33F.svg?style=flat-square&logo=JPA&logoColor=white) 
-   <a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 
