@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Star-mini&show_icons=true&hide_border=true)](https://github.com/Star-mini)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Star-mini&layout=compact)](https://github.com/Star-mini)
 
    <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/><a href="" target="_blank">
    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/><a href="" target="_blank">
