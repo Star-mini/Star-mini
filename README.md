@@ -20,7 +20,7 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/><a href="" target="_blank">
    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/><a href="" target="_blank">
    ![Spring](https://img.shields.io/badge/SprintBoot-236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
-   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
    <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
    ![jpa](https://img.shields.io/badge/JPA-236DB33F.svg?style=flat-square&logo=JPA&logoColor=white) 
 
