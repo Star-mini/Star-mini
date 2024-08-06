@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/matplotlib-추천 색상?style=for-the-badge&logo=matplotlib&logoColor=white">
 <br/>
 
-<img src="https://img.shields.io/badge/Chatbot Custom Parameter Tuning-1ABC9C?style=for-the-badge&logo=chatbot&logoColor=white">
+<img src="https://img.shields.io/badge/LLM Chatbot Custom Parameter Tuning-1ABC9C?style=for-the-badge&logo=chatbot&logoColor=white">
 <br/>
-<img src="https://img.shields.io/badge/Chatbot Integration with Proprietary API & Database-4285F4?style=for-the-badge&logo=livechat&logoColor=white">
+<img src="https://img.shields.io/badge/LLM Chatbot Integration with Proprietary API & Database-4285F4?style=for-the-badge&logo=livechat&logoColor=white">
 <br/>
 
 ## Back
