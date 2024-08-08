@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## Back
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/jsp-6DB33F?style=for-the-badge&logo=jsp&logoColor=white">
 <img src="https://img.shields.io/badge/oauth-4285F4?style=for-the-badge&logo=auth&logoColor=white">
 <img src="https://img.shields.io/badge/jwt-9B59B6?style=for-the-badge&logo=jwt&logoColor=white">
